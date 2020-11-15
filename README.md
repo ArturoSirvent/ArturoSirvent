@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning deep learning and data science. 🤣
 
 ### Connect with me:
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Farturosirvent.com)](https://arturosirvent.github.io)
-
+[<img align="left" alt="arturosirvent.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg" />][website]
+<br />
 [<img align="left" alt="arturo-sirvent-fresneda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
