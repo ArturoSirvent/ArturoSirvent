@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **ArturoSirvent/ArturoSirvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,16 +16,15 @@ Here are some ideas to get you started:
 
 ### Hi there, I'm Arturo 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arturosirvent.github.io)
 
-## I'm a physics student and AI autodidact!!
+## I'm a physics student!!
 
 - 🔭 I currently working on getting my Pysics degree!
-- 🌱 I’m currently learning deep learning and data science 🤣
+- 🌱 I’m currently learning deep learning and data science. 🤣
 
 ### Connect with me:
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://arturosirvent.github.io)
 
-[<img align="left" alt="arturosirvent.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="arturo-sirvent-fresneda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br />
 
