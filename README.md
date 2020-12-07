@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ## I'm a physics student!!
 
-- 🔭 I currently working on getting my Pysics degree!
-- 🌱 Right now I am learning deep learning and data science. Also I am taking clases on German (B1) 
+- 🔭 I currently working on my Pysics degree!
+- 🌱 Right now I am into deep learning and data science. Also I am taking clases on German (B1) 
 
 ### Connect with me:
 [<img align="left" alt="arturosirvent.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg" />][website]
