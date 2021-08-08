@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 ### Hi there, I'm Arturo 👋
 
 
-## I'm a physics student!!
+## I'm a Data Science student!!
 
-- 🔭 I currently working on my Pysics degree!
-- 🌱 Right now I am very interested deep learning, data analytics and Computer Vision. Also I am taking clases on German (B1) and English (C1).
+- 🔭 I've finished recently my degree in physics!
+- 🌱 Right now I am very interested deep learning, data analytics and computer vision. Also I am taking clases on German (B1) and English (C1).
 
 ### Connect with me:
 [<img align="left" alt="arturosirvent.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg" />][website]
