@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### Hi there, I'm Arturo 👋
 
 
-## I'm a Data Science student at the University of Valencia!!
+## I'm a Physicist and Data Scientist student at the University of Valencia!!
 
 - 🔭 I've recently finished my degree in Physics!
 - 🌱 Right now I am very interested deep learning, data analytics and computer vision. Also I am taking lectures on German (B1) and English (C1).
