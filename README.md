@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 ### Hi there, I'm Arturo 👋
 
 
-## I'm a Physicist and Data Scientist student at the University of Valencia!!
+## I'm a Physicist and Data Scientist!!
 
-- 🌱 Right now I am very interested deep learning, data analytics and computer vision. Also I am taking lectures on German (B1) and English (C1).
+- 🌱 Right now I am working as Data Scientist and AI Reseacher. My field of research is applied deep learning (as PINNs on Hyperelasticity for clinical simulations). Other fields of interest are computer vision, data visualization, MLOps and statistical learning. 
 
 
 
