@@ -1,10 +1,10 @@
-## Hi there, I'm Arturo 👋, a Physicist and Data Scientist!!
+# Hi there, I'm Arturo 👋, a Physicist and Data Scientist!!
 
 🌱 Right now I am working as Data Scientist at Idrica and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
 
 :closed_book: :pencil: My field of specialization is applied deep learning (as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. Other fields of interest are data visualization, MLOps and Microcontrollers. 
 
-### About my skills and abilities
+## About my skills and abilities
 <a href="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true&card_width=300&theme=radical" />
 </a>
@@ -75,7 +75,7 @@
 
 
 
-### Connect with me:
+## Connect with me:
 
   <a href="https://www.linkedin.com/in/arturo-sirvent-fresneda-8885091a3/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin">
@@ -87,5 +87,5 @@
 <br>  
 <br> 
 
-### Oh no! A snake is eating my commits!
+## Oh no! A snake is eating my commits!
  <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">
