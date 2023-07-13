@@ -1,4 +1,4 @@
-# Hi there, I'm Arturo 👋, a Physicist and Data Scientist!!
+# Hi there! I'm Arturo 👋, a Physicist and Data Scientist!!
 
 🌱 Right now I am working as Data Scientist at Idrica and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
 
