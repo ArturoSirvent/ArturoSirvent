@@ -2,7 +2,7 @@
 
 🌱 Right now I am working as Data Scientist at Idrica and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
 
-:closed_book: :pencil: My field of specialization is applied deep learning (as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. Other fields of interest are data visualization, MLOps and Microcontrollers. 
+:closed_book: :pencil: My field of specialization is applied deep learning (as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. Other fields of interest are data visualization, Complex Systems, MLOps and Microcontrollers. 
 
 ## About my skills and abilities
 <a href="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true">
