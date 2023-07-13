@@ -6,10 +6,10 @@
 
 ### About my skills and abilities
 <a href="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true&card_width=300&theme=radical" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&theme=radical">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&card_width=320&theme=radical" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&card_width=300&theme=radical" />
 </a>
 
 <br>  
