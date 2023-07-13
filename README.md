@@ -1,52 +1,91 @@
+## Hi there, I'm Arturo 👋, a Physicist and Data Scientist!!
 
-<!--
-**ArturoSirvent/ArturoSirvent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Right now I am working as Data Scientist at Idrica and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
 
-Here are some ideas to get you started:
+:closed_book: :pencil: My field of specialization is applied deep learning (as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. Other fields of interest are data visualization, MLOps and Microcontrollers. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About my skills and abilities
+<a href="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true&theme=radical" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&theme=radical">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&card_width=320&theme=radical" />
+</a>
 
-### Hi there, I'm Arturo 👋
+<br>  
+<br>  
 
 
-## I'm a Physicist and Data Scientist!!
+<div class="box">
+  <div class="header"><strong>Top 🥇 </strong></div>
+  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow" alt="Python">
+  <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF" alt="Git">
+  <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">
+  <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white" alt="Node">
+  <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff" alt="JavaScript">  
+  <img src="https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3" alt="R (Statistics)">  
+  <br>
+  <img src="https://img.shields.io/badge/-Pytorch-white?style=flat&logo=pytorch&logoColor=orange" alt="Pytorch">   
+  <img src="https://img.shields.io/badge/-TensorFlow-orange?style=flat&logo=tensorflow&logoColor=white" alt="TF">  
+  <img src="https://img.shields.io/badge/-Bash-black?style=flat&logo=gnubash&logoColor=white" alt="BASH">   
+  <img src="https://img.shields.io/badge/-ScikitLearn-blue?style=flat&logo=scikitlearn&logoColor=#F7931E" alt="scikitlearn"> 
+</div>
+<br>  
+<br> 
 
-- 🌱 Right now I am working as Data Scientist and AI Reseacher. My field of research is applied deep learning (as PINNs on Hyperelasticity for clinical simulations). Other fields of interest are computer vision, data visualization, MLOps and statistical learning. 
+<div class="box">
+  <div class="header"><strong>Good Knowledge 🥈 </strong></div>
+   <img src="https://img.shields.io/badge/-OpenCV-blck?style=flat&logo=opencv&logoColor=blue" alt="opencv">
+  <img src="https://img.shields.io/badge/-Docker-white?style=flat&logo=docker&logoColor=blue" alt="Docker">
+  <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff" alt="C++">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
+  <img src="https://img.shields.io/badge/-SQL-white?style=flat&logo=sql&logoColor=black" alt="SQL">
+  <img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=Black" alt="Linux">
+  
+</div>
+<br>  
+<br> 
+
+<div class="box">
+  <div class="header"><strong>Used at some point🥉 </strong></div>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
+
+</div>
+<br>  
+<br> 
+
+<div class="box">
+  <div class="header"><strong>Tools :wrench: </strong></div>
+  <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vscode">
+  <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" alt="Heroku">
+  <img src="http://img.shields.io/badge/-Glitch-white?style=flat&logo=glitch&logoColor=violet" alt="glitch">
+  <img src="https://img.shields.io/badge/-Postgres-blue?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/-AWS-FFA611?style=flat&logo=aws&logoColor=FFFFFF" alt="AWS">  
+  <img src="https://img.shields.io/badge/-DBeaver-white?style=flat&logo=DBeaver&logoColor=black" alt="Dbeaver">  
+  <img src="https://img.shields.io/badge/-SSH-white?style=flat&logo=ssh&logoColor=black" alt="SSH">  
+  <br>  
+  <img src="https://img.shields.io/badge/-Slack-white?style=flat&logo=slack&logoColor=4A154B" alt="Slack">  
+  <img src="https://img.shields.io/badge/-SourceTree-0052CC?style=flat&logo=sourcetree&logoColor=white" alt="sourcetree">
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab" alt="gitlab">
+  <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" alt="github">
+  
+</div>
+<br>  
+<br> 
 
 
 
 ### Connect with me:
-[<img align="left" alt="arturosirvent.github.io" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.4/icons/github.svg" />][website]
-<br />
-[<img align="left" alt="arturo-sirvent-fresneda | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br />
 
-### Languages and Tools:
-<img align="left" alt="Latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="tf" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
-<img align="left" alt="matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
-<img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" />
+  <a href="https://www.linkedin.com/in/arturo-sirvent-fresneda-8885091a3/" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin">
+  </a>
+  <a href="https://github.com/ArturoSirvent" target="_blank">
+    <img alt="Linkedin" src="https://img.shields.io/badge/PersonalWebsite-black?style=flat-square&logo=github">
+  </a><img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<br>  
+<br> 
 
-_And many more I dont find logo for :S_
-
-<br />
-<br />
-
-[website]: https://arturosirvent.github.io
-[linkedin]: https://www.linkedin.com/in/arturo-sirvent-fresneda-8885091a3/
+### Oh no! A snake is eating my commits!
+ <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">
