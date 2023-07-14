@@ -41,6 +41,9 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML">
   <img src="https://img.shields.io/badge/-SQL-white?style=flat&logo=sql&logoColor=black" alt="SQL">
   <img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=Black" alt="Linux">
+  <br>
+  <img src="https://img.shields.io/badge/-MLFlow-white?style=flat&logo=mlflow&logoColor=0194E2" alt="MLFlow">
+  <img src="https://img.shields.io/badge/-LightningAL-792EE5?style=flat&logo=lightning&logoColor=white" alt="lightning">
   
 </div>
 <br>  
@@ -71,9 +74,6 @@
   
 </div>
 <br>  
-<br> 
-
-
 
 ## Connect with me:
 
@@ -85,7 +85,5 @@
   </a><img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
 
 <br>  
-<br> 
-
 ## Oh no! A snake is eating my commits!
- <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">
+ <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">  
