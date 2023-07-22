@@ -43,7 +43,7 @@
   <img src="https://img.shields.io/badge/-Linux-white?style=flat&logo=linux&logoColor=Black" alt="Linux">
   <br>
   <img src="https://img.shields.io/badge/-MLFlow-white?style=flat&logo=mlflow&logoColor=0194E2" alt="MLFlow">
-  <img src="https://img.shields.io/badge/-LightningAL-792EE5?style=flat&logo=lightning&logoColor=white" alt="lightning">
+  <img src="https://img.shields.io/badge/-LightningAI-792EE5?style=flat&logo=lightning&logoColor=white" alt="lightning">
   
 </div>
 <br>  
