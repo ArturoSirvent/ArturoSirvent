@@ -73,8 +73,8 @@
   <a href="https://www.linkedin.com/in/arturo-sirvent-fresneda-8885091a3/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
-  <a href="https://github.com/ArturoSirvent" target="_blank">
-    <img alt="Linkedin" src="https://img.shields.io/badge/PersonalWebsite-black?style=flat-square&logo=github">
+  <a href="https://arturosirvent.github.io/" target="_blank">
+    <img alt="GithubPages" src="https://img.shields.io/badge/PersonalWebsite-black?style=flat-square&logo=github">
   </a><img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
 
 <br>   
