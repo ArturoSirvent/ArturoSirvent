@@ -31,8 +31,6 @@
   <img src="https://img.shields.io/badge/-ScikitLearn-blue?style=flat&logo=scikitlearn&logoColor=#F7931E" alt="scikitlearn"> 
 </div>
 <br>  
-<br> 
-
 <div class="box">
   <div class="header"><strong>Good Knowledge 🥈 </strong></div>
    <img src="https://img.shields.io/badge/-OpenCV-blck?style=flat&logo=opencv&logoColor=blue" alt="opencv">
@@ -47,16 +45,12 @@
   
 </div>
 <br>  
-<br> 
-
 <div class="box">
   <div class="header"><strong>Used at some point🥉 </strong></div>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS">
 
 </div>
 <br>  
-<br> 
-
 <div class="box">
   <div class="header"><strong>Tools :wrench: </strong></div>
   <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="vscode">
@@ -73,7 +67,6 @@
   <img src="https://img.shields.io/badge/-Github-181717?style=flat&logo=github&logoColor=white" alt="github">
   
 </div>
-<br>  
 
 ## Connect with me:
 
