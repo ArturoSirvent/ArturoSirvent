@@ -1,6 +1,6 @@
 # Hi there! I'm Arturo 👋, a Physicist and Data Scientist!!
 
-🌱 Right now I am working as Data Scientist at Idrica and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
+🌱 Right now I am working as Artificial Intelligence Engineer at Tyris.ai and collaborating as AI researcher at the Polytechnic University of Valencia (UPV). 
 
 :closed_book: :pencil: My field of specialization is applied deep learning (as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. Other fields of interest are data visualization, Complex Systems, MLOps and Microcontrollers. 
 
