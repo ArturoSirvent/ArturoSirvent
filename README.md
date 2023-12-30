@@ -11,11 +11,8 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&theme=radical">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&card_width=300&theme=radical" />
 </a>
-
-<br>  
-<br>  
-
-
+<br>
+<br>
 <div class="box">
   <div class="header"><strong>Top 🥇 </strong></div>
   <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=yellow" alt="Python">
@@ -73,12 +70,13 @@
   <a href="https://www.linkedin.com/in/arturo-sirvent-fresneda-8885091a3/" target="_blank">
     <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=linkedin">
   </a>
+  <br>
   <a href="https://arturosirvent.github.io/" target="_blank">
     <img alt="GithubPages" src="https://img.shields.io/badge/PersonalWebsite-black?style=flat-square&logo=github">
-  </a><img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
-
+  </a>
+  <br>
+  <img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
 <br>   
-
 ## Oh no! A snake is eating my commits!  
 
 <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">  
