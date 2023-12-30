@@ -76,7 +76,9 @@
   </a>
   <br>
   <img alt="Email" src="https://img.shields.io/badge/Email-arturosirvent[at]outlook[dot]com-blue?style=flat-square&logo=gmail">
+  
 <br>   
+
 ## Oh no! A snake is eating my commits!  
 
 <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">  
