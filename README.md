@@ -86,33 +86,3 @@
 
 <img alt="Linkedin" src="https://raw.githubusercontent.com/hritik5102/hritik5102/output/github-contribution-grid-snake.svg">  
 
-<style>
-  @media (prefers-color-scheme: dark) {
-    .box img[src*="img.shields.io"] {
-      filter: invert(0.8); /* Adjust the invert level for better visibility in dark mode */
-    }
-  }
-  @media (prefers-color-scheme: light) {
-    .box img[src*="img.shields.io"] {
-      filter: none; /* No filter in light mode */
-    }
-  }
-</style>
-
-<script>
-  // Script to update GitHub stats theme based on user's browser preference
-  const prefersDarkMode = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches;
-  const theme = prefersDarkMode ? 'dark' : 'light';
-  
-  document.querySelectorAll('a[href*="github-readme-stats"]').forEach(link => {
-    const img = link.querySelector('img');
-    if (img) {
-      const src = img.src;
-      if (src.includes('theme=')) {
-        img.src = src.replace(/theme=([^&]*)/, `theme=${theme}`);
-      } else {
-        img.src = `${src}&theme=${theme}`;
-      }
-    }
-  });
-</script>
