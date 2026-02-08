@@ -5,13 +5,6 @@
 :closed_book: :pencil: My field of specialization includes data science, cloud architecture, solution design, applied deep learning (such as PINNs on Hyperelasticity for clinical simulations💊), computer vision 💻👁️ and statistical learning/modelizations :chart_with_upwards_trend:. I've worked on projects involving big data in sensor networks, R&D+i vision projects, LLM agents, and RAG systems. Other fields of interest are data visualization, Complex Systems, MLOps, Microcontrollers, and I'm currently learning German 🇩🇪.
 
 ## About my skills and abilities
-<a href="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ArturoSirvent&rank_icon=github&show_icons=true&card_width=300&theme=dark" />
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoSirvent&langs_count=7&hide_progress=true&card_width=300&theme=dark" />
-</a>
-<br>
 <br>
 <div class="box">
   <div class="header"><strong>Top 🥇 </strong></div>
